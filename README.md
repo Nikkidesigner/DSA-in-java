@@ -1,12 +1,19 @@
 
 ![ClassificationofDataStructure-660x347](https://github.com/user-attachments/assets/51fc6952-e774-461f-a48c-5a84257f9b2c)
 
+
 Stacks, Queues, Linked Lists, Trees, Heaps, Tries
+
+
+
 1/ Stack
 Stacks are a type of data structure that holds multiple items which are inserted or removed in a LIFO (Last-in, First-out) principle. You can implement a stack using an array and linked list, and each of these has different rules for inserting or removing elements from a stack. This part of the data structure module will give you an idea of stack implementation using an array and linked list.
 
 Implementation of Stack using Arrays
 Implementation of Stack using Linked List
+
+
+
 2/ Queue
 Queue data structure is used for storing and managing data in a particular order. You can insert or remove an element from a queue by following the FIFO (First-in, First-out) principle. These can be implemented using arrays, linked lists, and stacks. You will learn the process of queue implementation using different data structures in this module.
 
@@ -14,11 +21,15 @@ Implementation of Queue using Arrays
 Implementation of Queue using Linked List
 Implementation of Queue using Stack
 
+
+
 3/ Circular Queue
 This abstract data type allows you to add an element at the end of a queue and remove an element from the beginning of the queue. You will learn more about circular queues and their implementation, along with the understanding of double-ended queues. 
 
 Implementation of Circular Queue
 Double Ended Queue
+
+
 
 4/ Priority Queues
 Priority queues are special queues in the data structure where there is a priority factor associated with each element’s insertion and deletion from the queue. It can be implemented in multiple data structures, including arrays, linked lists, heaps and binary search. This part of the module will cover the knowledge of Heap data structure and the implementation of priority queues through Heap and Linked Lists. 
